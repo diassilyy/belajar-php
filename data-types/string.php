@@ -20,3 +20,7 @@ $string_d = "{$string_b} apa";
 echo ($string_c);
 echo PHP_EOL;
 echo ($string_d);
+
+// take the value of 3
+$data = [1, 2, 3, 4, 5];
+var_dump($data[2]);
